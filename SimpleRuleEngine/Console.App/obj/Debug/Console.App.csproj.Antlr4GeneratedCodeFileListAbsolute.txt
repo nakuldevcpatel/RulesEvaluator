@@ -1,6 +1,0 @@
-D:\Learnings\ANTLR\RulesEvaluator\SimpleRuleEngine\Console.App\obj\Debug\RuleSetLexer.cs
-D:\Learnings\ANTLR\RulesEvaluator\SimpleRuleEngine\Console.App\obj\Debug\RuleSetParser.cs
-D:\Learnings\ANTLR\RulesEvaluator\SimpleRuleEngine\Console.App\obj\Debug\RuleSetListener.cs
-D:\Learnings\ANTLR\RulesEvaluator\SimpleRuleEngine\Console.App\obj\Debug\RuleSetBaseListener.cs
-D:\Learnings\ANTLR\RulesEvaluator\SimpleRuleEngine\Console.App\obj\Debug\RuleSetVisitor.cs
-D:\Learnings\ANTLR\RulesEvaluator\SimpleRuleEngine\Console.App\obj\Debug\RuleSetBaseVisitor.cs
